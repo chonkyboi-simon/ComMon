@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1493964894 source:e:\tools\common\common\com_port.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fcntl.h>
+	<conio.h>
+	<stdint.h>
+	"com_port.h"
+
+1436676798 e:\tools\common\common\com_port.h
+
+1493969846 source:e:\tools\common\common\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fcntl.h>
+	<conio.h>
+	<stdint.h>
+	"com_port.h"
+
+1493964894 source:d:\tools\common\common\com_port.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fcntl.h>
+	<conio.h>
+	<stdint.h>
+	"com_port.h"
+
+1436676798 d:\tools\common\common\com_port.h
+
